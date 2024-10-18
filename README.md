@@ -1,2 +1,2 @@
-# tool.spammer
+# Spammer
 A simple spammer with settings
